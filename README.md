@@ -53,6 +53,7 @@ Run the chatbot:
 bash
 Copy code
 python -m panel serve orderbot.py --show
+
 🎯 Usage
 Open the chatbot in your browser (auto opens after running).
 
