@@ -217,4 +217,5 @@ template = pn.template.FastListTemplate(
 )
 
 # Make app visible
-template.servable()
+# template.servable() # Comment out servable for static export
+template.save("index.html", embed=True, inline=True, resources=None, title="Pizza OrderBot") # Save as static HTML
