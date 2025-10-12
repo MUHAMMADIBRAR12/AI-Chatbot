@@ -1,0 +1,32 @@
+{"timestamp": "2025-10-05T23:01:30", "role": "user", "text": "hi"}
+{"timestamp": "2025-10-05T23:01:31", "role": "bot", "text": "Hello! Welcome to our pizza place! I'm OrderBot, ready to take your order. What can I get for you today?\n"}
+{"timestamp": "2025-10-05T23:15:48", "role": "user", "text": "hiiiiiiiii"}
+{"timestamp": "2025-10-05T23:15:50", "role": "bot", "text": "Hello! Welcome to our pizza place! I'm OrderBot, ready to take your order. What can I get for you today?\n"}
+{"timestamp": "2025-10-05T23:16:27", "role": "user", "text": "hi"}
+{"timestamp": "2025-10-05T23:16:28", "role": "bot", "text": "Hi there! Ready to order some delicious pizza and more? Let me know what you'd like!\n"}
+{"timestamp": "2025-10-05T23:18:54", "role": "user", "text": "hi"}
+{"timestamp": "2025-10-05T23:18:55", "role": "bot", "text": "Hello! Welcome to our pizza place. I'm OrderBot, ready to take your order. What can I get for you today?\n"}
+{"timestamp": "2025-10-12T19:05:47", "role": "user", "text": "hi"}
+{"timestamp": "2025-10-12T19:05:50", "role": "bot", "text": "Hello! Welcome to our pizza place! I'm OrderBot, ready to take your order. What can I get for you today?\n"}
+{"timestamp": "2025-10-12T19:09:10", "role": "user", "text": "Hi"}
+{"timestamp": "2025-10-12T19:09:11", "role": "bot", "text": "Hello! Welcome to our pizza place. I'm OrderBot, ready to take your order. What can I get for you today?\n"}
+{"timestamp": "2025-10-12T19:14:22", "role": "user", "text": "hi"}
+{"timestamp": "2025-10-12T19:14:24", "role": "bot", "text": "Hello! Welcome to our pizza place. I'm OrderBot, ready to take your order. What can I get for you today?\n"}
+{"timestamp": "2025-10-12T19:15:32", "role": "user", "text": "Hi"}
+{"timestamp": "2025-10-12T19:15:33", "role": "bot", "text": "Hello! Welcome to our pizza place. I'm OrderBot, ready to take your order. What can I get for you today?\n"}
+{"timestamp": "2025-10-12T19:15:46", "role": "user", "text": "pizza"}
+{"timestamp": "2025-10-12T19:15:47", "role": "bot", "text": "Okay, great! What kind of pizza are you in the mood for? We have Pepperoni, Cheese, and Eggplant. Also, what size would you like: Large, Medium, or Small?\n"}
+{"timestamp": "2025-10-12T19:15:55", "role": "user", "text": "cheese"}
+{"timestamp": "2025-10-12T19:15:56", "role": "bot", "text": "Okay, you'd like a Cheese pizza. And what size would you like? Large, Medium, or Small?\n"}
+{"timestamp": "2025-10-12T19:16:21", "role": "user", "text": "large"}
+{"timestamp": "2025-10-12T19:16:22", "role": "bot", "text": "Great! One large Cheese Pizza. Anything else for you today? We also have Fries, Greek Salad, and a variety of drinks. And don't forget toppings!\n"}
+{"timestamp": "2025-10-12T19:16:47", "role": "user", "text": "fries"}
+{"timestamp": "2025-10-12T19:16:49", "role": "bot", "text": "Okay, you'd like some fries too! What size of fries would you like: Large or Small?\n"}
+{"timestamp": "2025-10-12T19:17:04", "role": "user", "text": "larrge"}
+{"timestamp": "2025-10-12T19:17:05", "role": "bot", "text": "Okay, one large fries! Anything else for you today? We have drinks, salads and toppings for your pizza.\n"}
+{"timestamp": "2025-10-12T19:17:18", "role": "user", "text": "drink"}
+{"timestamp": "2025-10-12T19:17:19", "role": "bot", "text": "Okay! What drink would you like? We have Coke, Sprite, and Bottled Water. Also, what size would you like for your drink? Large, Medium, or Small?\n"}
+{"timestamp": "2025-10-12T19:17:44", "role": "user", "text": "medium coke"}
+{"timestamp": "2025-10-12T19:17:46", "role": "bot", "text": "Okay, one medium Coke. Anything else I can get for you? Perhaps some toppings for your pizza or a Greek salad?\n"}
+{"timestamp": "2025-10-12T19:18:13", "role": "user", "text": "nothing else"}
+{"timestamp": "2025-10-12T19:18:14", "role": "bot", "text": "Okay, so that's one large Cheese Pizza, one large Fries, and one medium Coke. Is there anything else you'd like to add before I finalize your order? Toppings, maybe?\n"}
