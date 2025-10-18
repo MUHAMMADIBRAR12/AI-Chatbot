@@ -30,3 +30,5 @@
 {"timestamp": "2025-10-12T19:17:46", "role": "bot", "text": "Okay, one medium Coke. Anything else I can get for you? Perhaps some toppings for your pizza or a Greek salad?\n"}
 {"timestamp": "2025-10-12T19:18:13", "role": "user", "text": "nothing else"}
 {"timestamp": "2025-10-12T19:18:14", "role": "bot", "text": "Okay, so that's one large Cheese Pizza, one large Fries, and one medium Coke. Is there anything else you'd like to add before I finalize your order? Toppings, maybe?\n"}
+{"timestamp": "2025-10-18T21:06:13", "role": "user", "text": "Hi"}
+{"timestamp": "2025-10-18T21:06:16", "role": "bot", "text": "Hello! Welcome to our pizza place. I'm OrderBot, ready to take your order. What can I get for you today?\n"}
